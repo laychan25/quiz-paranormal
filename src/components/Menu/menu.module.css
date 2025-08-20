@@ -1,0 +1,31 @@
+.container{
+ display: block;
+}
+
+.titulo{
+    font-family:var(--font-titulo);
+    color:var(--cor-fonte)
+}
+
+.secao{
+    font-family: var(--font-texto);
+    color: var(--cor-fonte);
+}
+
+.botao{
+     font-family: var(--font-texto);
+     font-size: 20px;
+     outline: none;
+     border: none;
+     width: 150px;
+     height: 40px;
+     border-radius: 5px;
+     background-color: var(--cor-fundo);
+     color: var(--cor-fonte);
+    
+
+}
+
+.botao:hover{
+    background-color: var(--cor-houver);
+}

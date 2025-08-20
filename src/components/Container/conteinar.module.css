@@ -1,0 +1,10 @@
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor-card);
+    width: 60vw;
+    height: 70vh;
+    border-radius: 10px;
+}
