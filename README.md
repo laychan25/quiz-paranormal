@@ -6,13 +6,16 @@
 Um quiz interativo com perguntas e respostas para descobrir o quão conectado você está com o mundo paranormal.
 Ideal para quem curte mistérios, espiritualidade e diversão em formato de jogo.
 
+![quiz-result](https://github.com/user-attachments/assets/7f08daff-1d66-403a-9cdf-c84017c34871)
+
+
 # Tecnologias usadas
 
 * React
 * Javascript
 * CSS Modules
 * React Router
-
+  
 # Como rodar localmente
 para quem quiser testar ou modificar o codigo
 
